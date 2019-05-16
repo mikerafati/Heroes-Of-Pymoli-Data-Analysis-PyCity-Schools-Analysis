@@ -15,6 +15,6 @@ for Visualization
 *)Top Performing Schools (By Passing Rate).  Sort and show top five schools and show bottom five schools
 *)Math Scores by Grade(Create data series of scores by grade levels)
 *)Scores by School Spending(Categorize the spending based on the bins)
-*)Scores by School Size
+*)Scores by School Size.
 
 
